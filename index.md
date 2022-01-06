@@ -6,10 +6,10 @@
 * [Homework assignments](hw)
 * [Instructor's office hours](https://users.dickinson.edu/~jmac/office-hours.html)
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=46926)
-<!-- * [Zoom link](https://lms.dickinson.edu/mod/page/view.php?id=1063923) -->
-<!--   for occasions when class is online -->
-<!-- * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1063924) -->
+* [Zoom details](https://lms.dickinson.edu/mod/page/view.php?id=1068256)
+  for occasions when class is online
+* [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1068255)
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Thu Jan 06 18:35:34 UTC 2022 by jmac.
+Last modified: Thu Jan 06 19:03:48 UTC 2022 by jmac.
