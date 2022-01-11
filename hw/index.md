@@ -80,7 +80,7 @@ document. Required portions: 7000 words; about 35 minutes' reading. Entire docum
 Reading to be advised later. This will be a media report on a current
 issue in the high-tech sector.
 
-## Progress reports (PR1-PR3)
+## Progress reports (EPR1-EPR3)
 
 under construction
 
