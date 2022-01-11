@@ -80,9 +80,11 @@ document. Required portions: 7000 words; about 35 minutes' reading. Entire docum
 Reading to be advised later. This will be a media report on a current
 issue in the high-tech sector.
 
-## Progress reports (EPR1-EPR3)
+## Epic progress reports (EPR1-EPR3)
 
-under construction
+* [EPR1](EPR1-user-stories.docx)
+
+* EPR2 and EPR3 under construction
 
 ## Final presentation (FP)
 
