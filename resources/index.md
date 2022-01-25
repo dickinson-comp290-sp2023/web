@@ -9,6 +9,8 @@ Overview of the course.
 
 Review of FarmData2 dev install.
 
+[slides](class01/01-intro-slides.pptx)
+
 
 ----
-Last modified: Fri Jan 07 01:34:39 UTC 2022 by jmac.
+Last modified: Tue Jan 25 16:11:38 UTC 2022 by jmac.
