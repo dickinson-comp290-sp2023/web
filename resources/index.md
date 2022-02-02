@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 2
+
+copying and pasting in Ubuntu terminal window: ctrl-insert, shift-insert (on a Mac, maybe fn-return will simulate insert?)
+
+
+
+[slides](class02/02-html-slides.pptx)
 
 
 
@@ -13,4 +20,4 @@ Review of FarmData2 dev install.
 
 
 ----
-Last modified: Tue Jan 25 16:11:38 UTC 2022 by jmac.
+Last modified: Wed Feb 02 03:24:57 UTC 2022 by jmac.
