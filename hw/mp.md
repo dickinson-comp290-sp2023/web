@@ -14,11 +14,30 @@ Free Software Project](https://producingoss.com/), by Karl Fogel
 
 ### MP1
 
+~~Required reading: Fogel [Chapter
+1](https://producingoss.com/en/introduction.html). 6000 words; about
+30 minutes' reading.~~
+
+Required reading: [The Problem With Diversity in
+Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456),
+by Ian Bogost. Technology column of _The Atlantic_ magazine, June 25,
+2019. Also available as
+      [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069155)
+      on Moodle. 1500 words; about 10 minutes' reading.
+
+Required event: Fireside chat with Reshma Saujani, founder and CEO of
+Girls Who Code. Thursday, February 10, in the Stern Center Great Room
+at 7 p.m.; also available on
+[Zoom](https://lms.dickinson.edu/mod/page/view.php?id=1087204).
+
+### MP2
+
 Required reading: Fogel [Chapter
 1](https://producingoss.com/en/introduction.html). 6000 words; about
 30 minutes' reading.
 
-### MP2
+
+### MP3
 
 Required reading: parts of Fogel [Chapter
 6](https://producingoss.com/en/communications.html). The first two
@@ -30,15 +49,6 @@ required reading. The sections on Avoiding Common Pitfalls is
 recommended reading. The rest of the chapter is also worthwhile and is
 optional extra reading.  Required component: 5000 words; about 25
 minutes' reading.
-
-### MP3
-
-Required reading: [The Problem With Diversity in
-Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456),
-by Ian Bogost. Technology column of _The Atlantic_ magazine, June 25,
-2019. Also available as
-      [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069155)
-      on Moodle. 1500 words; about 10 minutes' reading.
 	  
 ### MP4
 
