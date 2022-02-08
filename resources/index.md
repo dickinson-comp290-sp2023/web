@@ -3,7 +3,7 @@
 ## Class 3
 
 To take advantage of a recently-announced Dickinson event, the
-schedule has been changed and are topic for this week will be
+schedule has been changed and our topic for this week will be
 diversity in computing. Please check the MP1 homework webpage
 carefully for details.
 
@@ -14,6 +14,8 @@ schedule:
 * Also available on
   [Zoom](https://lms.dickinson.edu/mod/page/view.php?id=1087204).
 
+Slides for today: [03-vue-data-slides.pptx](class03/03-vue-data-slides.pptx)
+
 
 ## Class 2
 
@@ -21,7 +23,7 @@ copying and pasting in Ubuntu terminal window: ctrl-insert, shift-insert (on a M
 
 
 
-[slides](class02/02-html-slides.pptx)
+slides: [02-html-slides.pptx](class02/02-html-slides.pptx)
 
 
 
@@ -31,8 +33,8 @@ Overview of the course.
 
 Review of FarmData2 dev install.
 
-[slides](class01/01-intro-slides.pptx)
+slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Sat Feb 05 16:18:49 UTC 2022 by jmac.
+Last modified: Tue Feb 08 18:28:13 UTC 2022 by jmac.

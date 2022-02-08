@@ -12,6 +12,18 @@ Free Software Project](https://producingoss.com/), by Karl Fogel
 (first published 2005 by O'Reilly Media; free online version updated
 2019).
 
+[The following paragraph was added on 2/8/2022.]
+
+If you are absent from a discussion session or required event
+(regardless of whether your absence is excused in advance or not), you
+must still post a discussion question as described above, **and** you
+must write a blog post about the reading or event. In your blog post,
+discuss and respond to one or more of the questions posted by other
+students. Your post should be made publicly available online somewhere
+(e.g. tumblr.com). The post must be at least 800 words in
+length. Submit a link to your blog post to the Moodle forum. The link
+must be submitted within three days of our discussion session.
+
 ### MP1
 
 ~~Required reading: Fogel [Chapter
