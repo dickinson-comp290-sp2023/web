@@ -6,6 +6,7 @@
 * [Homework assignments](hw)
 * [Instructor's office
   hours](https://users.dickinson.edu/~jmac/office-hours.html)
+* [CS help room](help-room.md)
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=46926)
 * [Zoom
   details](https://lms.dickinson.edu/mod/page/view.php?id=1068256) for
@@ -18,4 +19,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Sat Feb 05 16:15:33 UTC 2022 by jmac.
+Last modified: Wed Feb 09 15:43:20 UTC 2022 by jmac.
