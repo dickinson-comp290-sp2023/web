@@ -33,9 +33,8 @@ must be submitted within three days of our discussion session.
 Required reading: [The Problem With Diversity in
 Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456),
 by Ian Bogost. Technology column of _The Atlantic_ magazine, June 25,
-2019. Also available as
-      [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069155)
-      on Moodle. 1500 words; about 10 minutes' reading.
+2019. Also available as [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069155) on Moodle. 1500 words; about 10 minutes' reading.
+Post discussion questions to [MP1 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075831).
 
 Required event: Fireside chat with Reshma Saujani, founder and CEO of
 Girls Who Code. Thursday, February 10, in the Stern Center Great Room
@@ -47,6 +46,7 @@ at 7 p.m.; also available on
 Required reading: Fogel [Chapter
 1](https://producingoss.com/en/introduction.html). 6000 words; about
 30 minutes' reading.
+Post discussion questions to [MP2 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075833).
 
 
 ### MP3
@@ -61,7 +61,9 @@ required reading. The sections on Avoiding Common Pitfalls is
 recommended reading. The rest of the chapter is also worthwhile and is
 optional extra reading.  Required component: 5000 words; about 25
 minutes' reading.
-	  
+Post discussion questions to [MP3 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075834).
+
+
 ### MP4
 
 Required event: Lecture by Luis von Ahn, CEO of Duolingo, on Tuesday
@@ -69,6 +71,7 @@ March 22 at 5pm. The location of the lecture is ATS, Dickinson
 College. The title of thelecture will be advised later. A discussion
 question based on the lecture must be posted to Moodle by 8 AM
 Wednesday, March 23.
+Post discussion questions to [MP4 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075835).
 
 ### MP5
 
@@ -80,8 +83,12 @@ inclusive) and the 11th section (titled "The Social Context of
 Open-Source Software"). However, it is recommended to read the entire
 document. Required portions: 7000 words; about 35 minutes' reading. Entire document: 18000 words; about 90 minutes' reading.
 
+Post discussion questions to [MP5 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075836).
+
+
 ### MP6
 
 Reading to be advised later. This will be a media report on a current
 issue in the high-tech sector.
 
+Post discussion questions to [MP6 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075837).
