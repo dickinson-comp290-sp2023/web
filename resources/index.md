@@ -1,5 +1,10 @@
 # Detailed schedule
 
+## Class 4
+
+Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm. 
+
+
 ## Class 3
 
 To take advantage of a recently-announced Dickinson event, the
@@ -37,4 +42,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Tue Feb 08 18:28:13 UTC 2022 by jmac.
+Last modified: Wed Feb 16 14:35:49 UTC 2022 by jmac.
