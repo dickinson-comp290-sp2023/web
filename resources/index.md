@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 5
+
+* Discussion of Fogel chapter 1
+* Overview of web API task ([slides](class05/05-S-APIs.pptx))
+
+
 ## Class 4
 
 Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm. 
@@ -42,4 +48,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Feb 16 14:35:49 UTC 2022 by jmac.
+Last modified: Wed Feb 23 18:15:45 UTC 2022 by jmac.
