@@ -7,6 +7,7 @@
 * I will give a quick demo and the remainder of time will be for
   individual meetings with the instructor to make progress on FarmData2
   School assignments.
+* During the online session, you can contact me via private message or general posting on [Teams](https://teams.microsoft.com/l/channel/19%3aKwYFIGi6SM-Rh6Pvhy2LguJcDw_4TxrkzXAFidD915Q1%40thread.tacv2/General?groupId=64687cb3-ec94-4b9c-a2a9-9b40ebe7a2d2&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb).
 * Starting next week, we will be working in small teams of three or
   four students for the rest of the semester. If you have a preference
   of who you would like to work with, please submit the [team member
@@ -62,4 +63,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Mar 02 03:02:57 UTC 2022 by jmac.
+Last modified: Wed Mar 02 18:24:09 UTC 2022 by jmac.
