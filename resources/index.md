@@ -1,5 +1,19 @@
 # Detailed schedule
 
+## Class 6
+
+* Main topic: FarmOS API. 
+* There are no slides for today. 
+* I will give a quick demo and the remainder of time will be for
+  individual meetings with the instructor to make progress on FarmData2
+  School assignments.
+* Starting next week, we will be working in small teams of three or
+  four students for the rest of the semester. If you have a preference
+  of who you would like to work with, please submit the [team member
+  suggestion form](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UN0xERlo4VVNXVzRDUVlPMFJQU1hUUDIzQS4u).
+* Note that the final FDS assignment is due at midnight Monday and
+  there is a reading assignment due 8 AM Wednesday.
+
 ## Class 5
 
 * Discussion of Fogel chapter 1
@@ -48,4 +62,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Feb 23 18:15:45 UTC 2022 by jmac.
+Last modified: Wed Mar 02 03:02:57 UTC 2022 by jmac.
