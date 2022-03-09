@@ -7,12 +7,12 @@ In-class agenda:
 1. Please take the [midsemester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UNVI5M1VLTEcxOUU2SFQyTEE2VDIxUVpPQy4u).
 1. Discussion of communication in open-source software projects based on Fogel chapter 6 (homework assignment MP3).
 1. Epic teams:
-<!-- | team number | team members | issue | -->
-<!-- |-------------|--------------|-------| -->
-<!-- | 1 | Dzung, John, William, Marcel | [#416](https://github.com/DickinsonCollege/FarmData2/issues/416) | -->
-<!-- | 2 | Belgin, Leah, Sophia | [#417](https://github.com/DickinsonCollege/FarmData2/issues/417) | -->
-<!-- | 3 | Mai, Nam, Evan | [#418](https://github.com/DickinsonCollege/FarmData2/issues/418) | -->
-<!-- | 4 | Aaron, Adia, Andrew | [#419](https://github.com/DickinsonCollege/FarmData2/issues/419) | -->
+| team number | team members | issue |
+|-------------|--------------|-------|
+| 1 | Dzung, John, William, Marcel | [#416](https://github.com/DickinsonCollege/FarmData2/issues/416) |
+| 2 | Belgin, Leah, Sophia | [#417](https://github.com/DickinsonCollege/FarmData2/issues/417) |
+| 3 | Mai, Nam, Evan | [#418](https://github.com/DickinsonCollege/FarmData2/issues/418) |
+| 4 | Aaron, Adia, Andrew | [#419](https://github.com/DickinsonCollege/FarmData2/issues/419) |
 Thank you to Professor Braught for providing these new Issues for us to work on!
 1. Overview of Class 8 work due: MP4 and ungraded first draft of your Epic (ready for discussion with Matt) 
 1. Agile software development overview: [07-agile-overview.pptx](class07/07-agile-overview.pptx)
@@ -81,4 +81,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Mar 09 02:46:40 UTC 2022 by jmac.
+Last modified: Wed Mar 09 15:49:48 UTC 2022 by jmac.
