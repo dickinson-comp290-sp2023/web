@@ -1,7 +1,7 @@
 # COMP290-01: Large-scale and Open Source Software Development, spring 2022
 
 * [Syllabus](syllabus.docx)
-* [Overview Schedule](schedule.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 2/5/2022</font>
+* [Overview Schedule](schedule.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font>
 * [Detailed schedule](resources)
 * [Homework assignments](hw)
 * [Instructor's office
@@ -19,4 +19,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Wed Feb 09 15:43:20 UTC 2022 by jmac.
+Last modified: Wed Mar 09 02:48:38 UTC 2022 by jmac.
