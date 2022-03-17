@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 8
+
+[Results of the midsemester feedback](class08/comp290-midsem-sp2022.pptx) are available.
+
+Most of today's class will be spent presenting your Epic to Matt, asking questions and receiving feedback as needed.
+
 ## Class 7
 
 In-class agenda:
@@ -84,4 +90,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Mar 09 18:35:21 UTC 2022 by jmac.
+Last modified: Thu Mar 17 20:55:08 UTC 2022 by jmac.
