@@ -1,5 +1,14 @@
 # Detailed schedule
 
+## Class 9
+
+1. Discussion of the Duolingo talk (15 minutes)
+1. Explain tasks using the same PowerPoint as the previous two weeks:  [07-agile-overview.pptx](class07/07-agile-overview.pptx)
+1. Each team presents at least one user story
+1. Teams meet to progress on EPR2
+
+
+
 ## Class 8
 
 [Results of the midsemester feedback](class08/comp290-midsem-sp2022.pptx) are available.
@@ -90,4 +99,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Thu Mar 17 20:55:08 UTC 2022 by jmac.
+Last modified: Wed Mar 30 14:31:51 UTC 2022 by jmac.
