@@ -1,5 +1,10 @@
 # Detailed schedule
 
+## Class 11
+
+1. Team standup meetings
+1. Teams begin work on EPR3
+
 ## Class 10
 
 1. Discussion of CatB
@@ -30,12 +35,12 @@ In-class agenda:
 2. Discussion of communication in open-source software projects based on Fogel chapter 6 (homework assignment MP3).
 3. Epic teams:
 
-| team number | team members | issue |
-|-------------|--------------|-------|
-| 1 | Dzung, John, William, Marcel | [#416](https://github.com/DickinsonCollege/FarmData2/issues/416) |
-| 2 | Belgin, Leah, Sophia | [#417](https://github.com/DickinsonCollege/FarmData2/issues/417) |
-| 3 | Mai, Nam, Evan | [#418](https://github.com/DickinsonCollege/FarmData2/issues/418) |
-| 4 | Aaron, Adia, Andrew | [#419](https://github.com/DickinsonCollege/FarmData2/issues/419) |
+| team number | team members | issue | kanban board |
+|-------------|--------------|-------|--------------|
+| 1 | Dzung, John, William, Marcel | [#416](https://github.com/DickinsonCollege/FarmData2/issues/416) | [kanban](https://github.com/JingyuMarcelLee/FarmData2/projects/1) |
+| 2 | Belgin, Leah, Sophia | [#417](https://github.com/DickinsonCollege/FarmData2/issues/417) | [kanban](https://github.com/goldberl/FarmData2/projects/1) |
+| 3 | Mai, Nam, Evan | [#418](https://github.com/DickinsonCollege/FarmData2/issues/418) | [kanban](https://github.com/NamHaiBui/FarmData2/projects/1) |
+| 4 | Aaron, Adia, Andrew | [#419](https://github.com/DickinsonCollege/FarmData2/issues/419) | [kanban](https://github.com/astern21/FarmData2/projects/2) |
 
 Thank you to Professor Braught for providing these new Issues for us to work on!
 
@@ -106,4 +111,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Apr 06 17:08:45 UTC 2022 by jmac.
+Last modified: Wed Apr 13 14:25:40 UTC 2022 by jmac.
