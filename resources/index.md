@@ -1,5 +1,16 @@
 # Detailed schedule
 
+## Class 13
+
+1. Please complete the [course evaluation form](https://dickinson.campuslabs.com/eval-home/direct/8617753).
+1. Team standup meetings
+1. Teams begin work on final presentation and report (FP)
+
+## Class 12
+
+Discussion of regulation of tech companies by European Union, followed
+by team meetings to work on Epic project.
+
 ## Class 11
 
 1. Team standup meetings
@@ -111,4 +122,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Apr 13 14:25:40 UTC 2022 by jmac.
+Last modified: Wed Apr 27 15:42:26 UTC 2022 by jmac.
