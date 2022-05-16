@@ -1,5 +1,19 @@
 # Detailed schedule
 
+## Final presentations
+
+Randomized presentation order:
+1. Team 4 (Aaron, Adia, Andrew)
+1. Team 3 (Mai, Nam, Evan)
+1. Team 1 (Dzung, John, William, Marcel)
+1. Team 2 (Belgin, Leah, Sophia)
+
+
+## Class 14
+
+1. Overview of course learning goals
+1. Teams continue work on final presentation and report (FP)
+
 ## Class 13
 
 1. Please complete the [course evaluation form](https://dickinson.campuslabs.com/eval-home/direct/8617753).
@@ -122,4 +136,4 @@ slides: [01-intro-slides.pptx](class01/01-intro-slides.pptx)
 
 
 ----
-Last modified: Wed Apr 27 15:42:26 UTC 2022 by jmac.
+Last modified: Mon May 16 23:20:54 UTC 2022 by jmac.
