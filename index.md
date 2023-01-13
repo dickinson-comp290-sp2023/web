@@ -2,7 +2,7 @@
 
 
 * [Syllabus](syllabus-1-12-2023.docx)
-* [Overview Schedule](schedule-1-12-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
+* [Overview Schedule](schedule-1-13-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
 * [Detailed schedule](resources)
 * [Homework assignments](hw)
 <!-- * [Instructor's office -->
@@ -20,4 +20,4 @@
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Fri Jan 13 02:43:40 UTC 2023 by jmac.
+Last modified: Fri Jan 13 14:24:34 UTC 2023 by jmac.
