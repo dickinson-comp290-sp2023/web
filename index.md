@@ -1,11 +1,10 @@
 # COMP290-02: Large-scale and Open Source Software Development, spring 2023
 
-under construction
 
-<!-- * [Syllabus](syllabus.docx) -->
-<!-- * [Overview Schedule](schedule.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
-<!-- * [Detailed schedule](resources) -->
-<!-- * [Homework assignments](hw) -->
+* [Syllabus](syllabus-1-12-2023.docx)
+* [Overview Schedule](schedule-1-12-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
+* [Detailed schedule](resources)
+* [Homework assignments](hw)
 <!-- * [Instructor's office -->
 <!--   hours](https://users.dickinson.edu/~jmac/office-hours.html) -->
 <!-- * [CS help room](help-room.md) -->
@@ -21,4 +20,4 @@ under construction
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Wed Jan 04 03:35:49 UTC 2023 by jmac.
+Last modified: Fri Jan 13 02:43:40 UTC 2023 by jmac.
