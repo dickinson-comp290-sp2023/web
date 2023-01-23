@@ -50,7 +50,7 @@ sections ([Written
 Culture](https://producingoss.com/en/communications.html#written-culture)
 and [You Are What You
 Write](https://producingoss.com/en/you-are-what-you-write.html)) are
-required reading. The sections on Avoiding Common Pitfalls is
+required reading. The section on Avoiding Common Pitfalls is
 recommended reading. The rest of the chapter is also worthwhile and is
 optional extra reading.  Required component: 5000 words; about 25
 minutes' reading.
