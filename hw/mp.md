@@ -36,9 +36,8 @@ Required reading: Fogel [Chapter
 1](https://producingoss.com/en/introduction.html). 6000 words; about
 30 minutes' reading.
 
-* Post discussion questions to MP1 Moodle forum.
-<!-- [MP1 Moodle -->
-<!-- forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075831). -->
+* Post discussion questions to [MP1 Moodle
+forum](https://lms.dickinson.edu/mod/forum/view.php?id=11674261).
 
 
 
@@ -56,24 +55,28 @@ recommended reading. The rest of the chapter is also worthwhile and is
 optional extra reading.  Required component: 5000 words; about 25
 minutes' reading.
 
-Post discussion questions to MP2 Moodle forum.
-<!-- * Post discussion questions to [MP2 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075833). -->
+* Post discussion questions to [MP2 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167427).
 
 
 ### MP3
 
-Required reading: to be advised
+The required "reading" is actually an episode of the [Good
+  Robot](https://www.thegoodrobot.co.uk/) podcast, hosted by Dr
+  Eleanor Drage and Dr Kerry Mackereth of Cambridge University. You
+  can listen to it and/or read the transcript. The length of the audio
+  is about 30 minutes.
+* The specific episode is from December 26, 2022, entitled *Su Lin Blodgett on Creating Just Language Technologies*, available as [audio](https://www.thegoodrobot.co.uk/podcast/episode/7d477821/su-lin-blodgett-on-creating-just-language-technologies) or [transcript](https://www.thegoodrobot.co.uk/post/su-lin-blodgett-on-creating-just-language-technologies).
+
+
 <!-- * [The Problem With Diversity in Computing](https://www.theatlantic.com/technology/archive/2019/06/tech-computers-are-bigger-problem-diversity/592456), by Ian Bogost. Technology column of _The Atlantic_ magazine, June 25, 2019.  -->
 <!-- * Also available as [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069155) on Moodle. 1500 words; about 10 minutes' reading.  -->
 
-Post discussion questions to MP3 Moodle forum
-
-<!-- * Post discussion questions to [MP3 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075834). -->
+* Post discussion questions to [MP3 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167428).
 
 
 ### MP4
 
-Required reading: selections from _The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_, by Eric Raymond (originally published 1999 by O'Reilly Media). Available in [html](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) at catb.org or [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1069160) via Moodle. 
+Required reading: selections from _The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_, by Eric Raymond (originally published 1999 by O'Reilly Media). Available in [html](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) at catb.org or [PDF](https://lms.dickinson.edu/mod/resource/view.php?id=1167421) via Moodle. 
 
 The required parts of this reading are the first five sections (from
 "The Cathedral and the Bazaar" to "How Many Eyeballs Tame Complexity"
@@ -81,9 +84,7 @@ inclusive) and the 11th section (titled "The Social Context of
 Open-Source Software"). However, it is recommended to read the entire
 document. Required portions: 7000 words; about 35 minutes' reading. Entire document: 18000 words; about 90 minutes' reading.
 
-Post discussion questions to MP4 Moodle forum
-
-<!-- Post discussion questions to [MP5 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075836). -->
+Post discussion questions to [MP4 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167429).
 
 
 ### MP5
@@ -96,6 +97,4 @@ issue in the high-tech sector.
 <!-- [Moodle as a Word document](https://lms.dickinson.edu/mod/resource/view.php?id=1097377). Full citation:  -->
 <!-- * E.U. Takes Aim at Big Tech's Power With Landmark Digital Act. Adam Satariano. New York Times, March 24, 2022. -->
 
-Post discussion questions to MP5 Moodle forum
-
-<!-- Post discussion questions to [MP5 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1075837). -->
+Post discussion questions to [MP5 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167430).
