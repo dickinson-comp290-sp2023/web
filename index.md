@@ -8,7 +8,7 @@
 <!-- * [Instructor's office -->
 <!--   hours](https://users.dickinson.edu/~jmac/office-hours.html) -->
 <!-- * [CS help room](help-room.md) -->
-<!-- * [Moodle site](https://lms.dickinson.edu/course/view.php?id=46926) -->
+* [Moodle site](https://lms.dickinson.edu/course/view.php?id=49702)
 <!-- * [Zoom -->
 <!--   details](https://lms.dickinson.edu/mod/page/view.php?id=1068256) for -->
 <!--   occasions when class is online -->
@@ -20,4 +20,4 @@
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Fri Jan 13 14:24:34 UTC 2023 by jmac.
+Last modified: Mon Jan 23 12:53:07 UTC 2023 by jmac.
