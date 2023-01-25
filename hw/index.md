@@ -1,6 +1,6 @@
 # Assignments
 
-* [FarmData2 School activities (FDS2-9)](fds.md)
+* [FarmData2 School activities (FDS1-8)](fds.md)
 * [Moodle postings (MP1-MP5)](mp.md)
 * Epic progress reports (EPR1-EPR3) -- under construction
 <!-- * [Epic progress reports (EPR1-EPR3)](epr.md) -->
