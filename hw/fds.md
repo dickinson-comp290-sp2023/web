@@ -4,8 +4,8 @@ Assignments FDS1 through FDS8 are part of the FarmData2 GitHub repository, but y
 
 *  [https://github.com/DickinsonCollege/FD2School-FarmData2](https://github.com/DickinsonCollege/FD2School-FarmData2)
 
-**The link to the first assignment may not be correct in the repository. Here is a definitely correct link:**
-[01-DeveloperInstall.docx](https://github.com/DickinsonCollege/FD2School-FarmData2/raw/main/farmdata2/farmdata2_modules/fd2_school/activities/01-DeveloperInstall.docx)
+<!-- **The link to the first assignment may not be correct in the repository. Here is a definitely correct link:** -->
+<!-- [01-DeveloperInstall.docx](https://github.com/DickinsonCollege/FD2School-FarmData2/raw/main/farmdata2/farmdata2_modules/fd2_school/activities/01-DeveloperInstall.docx) -->
 
 Each assignment is associated with an [Issue in the above
 repository](https://github.com/DickinsonCollege/FD2School-FarmData2/issues). For
