@@ -1,8 +1,8 @@
 # COMP290-02: Large-scale and Open Source Software Development, spring 2023
 
 
-* [Syllabus](syllabus-1-12-2023.docx)
-* [Overview Schedule](schedule-1-13-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
+* [Syllabus](syllabus-1-24-2023.docx)
+* [Overview Schedule](schedule-1-24-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/8/2022</font> -->
 * [Detailed schedule](resources)
 * [Homework assignments](hw)
 <!-- * [Instructor's office -->
@@ -20,4 +20,4 @@
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Mon Jan 23 12:53:07 UTC 2023 by jmac.
+Last modified: Wed Jan 25 03:52:37 UTC 2023 by jmac.
