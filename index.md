@@ -16,8 +16,9 @@
 <!--   classes](https://lms.dickinson.edu/mod/page/view.php?id=1068255) -->
 <!-- * [FarmData2 GitHub -->
 <!--   Repository](https://github.com/DickinsonCollege/FarmData2) -->
+* [QRA](qra.md)
 * [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com)
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Mon Jan 30 14:16:06 UTC 2023 by jmac.
+Last modified: Wed Feb 01 18:03:50 UTC 2023 by jmac.

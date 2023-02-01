@@ -116,13 +116,17 @@
 <!-- Slides for today: [03-vue-data-slides.pptx](class03/03-vue-data-slides.pptx) -->
 
 
-<!-- ## Class 2 -->
+## Class 2
 
 <!-- copying and pasting in Ubuntu terminal window: ctrl-insert, shift-insert (on a Mac, maybe fn-return will simulate insert?) -->
 
 
+Reminder about QRA.
 
-<!-- slides: [02-html-slides.pptx](class02/02-html-slides.pptx) -->
+Reminder about Zulip.
+
+Introduction to HTML within Farmdata2:
+* slides: [02-S-HTML.pptx](class02/02-S-HTML.pptx)
 
 
 
@@ -136,4 +140,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Jan 25 01:18:02 UTC 2023 by jmac.
+Last modified: Wed Feb 01 18:04:16 UTC 2023 by jmac.
