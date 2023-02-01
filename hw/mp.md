@@ -37,7 +37,7 @@ Required reading: Fogel [Chapter
 30 minutes' reading.
 
 * Post discussion questions to [MP1 Moodle
-forum](https://lms.dickinson.edu/mod/forum/view.php?id=11674261).
+forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167426).
 
 
 
