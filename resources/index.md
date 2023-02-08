@@ -99,21 +99,11 @@
 <!-- Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm.  -->
 
 
-<!-- ## Class 3 -->
+## Class 3
 
-<!-- To take advantage of a recently-announced Dickinson event, the -->
-<!-- schedule has been changed and our topic for this week will be -->
-<!-- diversity in computing. Please check the MP1 homework webpage -->
-<!-- carefully for details. -->
-
-<!-- In addition, a new required evening event has been added to the course -->
-<!-- schedule:  -->
-<!-- * Fireside chat with Reshma Saujani, founder and CEO of Girls Who Code -->
-<!-- * Thursday, February 10, in the Stern Center Great Room at 7 p.m. -->
-<!-- * Also available on -->
-<!--   [Zoom](https://lms.dickinson.edu/mod/page/view.php?id=1087204). -->
-
-<!-- Slides for today: [03-vue-data-slides.pptx](class03/03-vue-data-slides.pptx) -->
+* Discussion of Fogel chapter 1
+* Slides for today: [03-S-VueDataBinding.pptx](class03/03-S-VueDataBinding.pptx)
+* Vue demo code: [vue-demo.zip](class03/vue-demo.zip)
 
 
 ## Class 2
@@ -140,4 +130,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Feb 01 18:04:16 UTC 2023 by jmac.
+Last modified: Wed Feb 08 03:19:26 UTC 2023 by jmac.
