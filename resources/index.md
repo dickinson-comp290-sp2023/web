@@ -94,10 +94,13 @@
 <!-- * Overview of web API task ([slides](class05/05-S-APIs.pptx)) -->
 
 
-<!-- ## Class 4 -->
+## Class 4
 
-<!-- Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm.  -->
+Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm.
 
+* Optional video (15 minutes) explaining this week's assignment: [class 4 video](https://dickinson.zoom.us/rec/share/7Mw5sm-hKzFNXO0JiFbfVso98Mkn7v7bxisHl3u5hK00tRvS23bj0JPa_u61MFOY.vC9vjXE0u1zXGgF7)
+* Slides available for background reading if necessary: [04-S-VueEventsAndJS.pptx](class04/04-S-VueEventsAndJS.pptx)
+* Demo code for Vue events: [04-spike.zip](class04/04-spike.zip)
 
 ## Class 3
 
@@ -130,4 +133,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Feb 08 03:19:26 UTC 2023 by jmac.
+Last modified: Tue Feb 14 04:30:56 UTC 2023 by jmac.
