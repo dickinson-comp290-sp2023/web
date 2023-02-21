@@ -88,10 +88,10 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
-<!-- ## Class 5 -->
+## Class 5
 
-<!-- * Discussion of Fogel chapter 1 -->
-<!-- * Overview of web API task ([slides](class05/05-S-APIs.pptx)) -->
+* Discussion of communication in open-source software projects based on Fogel chapter 6 (homework assignment MP2).
+* Overview of web API task ([slides](class05/05-S-APIs.pptx))
 
 
 ## Class 4
@@ -133,4 +133,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Tue Feb 14 04:30:56 UTC 2023 by jmac.
+Last modified: Tue Feb 21 02:52:02 UTC 2023 by jmac.
