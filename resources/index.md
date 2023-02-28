@@ -99,6 +99,9 @@
 Visit to College Farm. Meet 1:25pm in Kaufman parking lot near DPS entrance. We will return before 3pm.
 
 * Optional video (15 minutes) explaining this week's assignment: [class 4 video](https://dickinson.zoom.us/rec/share/7Mw5sm-hKzFNXO0JiFbfVso98Mkn7v7bxisHl3u5hK00tRvS23bj0JPa_u61MFOY.vC9vjXE0u1zXGgF7)
+  - at 4:30, the webpage shown in this video is not up-to-date. It
+    should of course include the content for class 4, including the
+    PowerPoint for class 4 and the demo code for class 4.
 * Slides available for background reading if necessary: [04-S-VueEventsAndJS.pptx](class04/04-S-VueEventsAndJS.pptx)
 * Demo code for Vue events: [04-spike.zip](class04/04-spike.zip)
 
@@ -133,4 +136,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Tue Feb 14 04:30:56 UTC 2023 by jmac.
+Last modified: Tue Feb 14 04:34:31 UTC 2023 by jmac.
