@@ -88,6 +88,16 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 6
+
+* Overview of FarmOS API ([slides](class06/06-S-FarmOS-API.pptx))
+* git is much easier to use if you enable tab completion. This is not
+  enabled in our FarmData2 development environments by default.
+  - It can be enabled by executing the command `source
+    /usr/share/bash-completion/completions/git` in a terminal.
+  - To automatically enable it in every shell (i.e. terminal), add
+    that command to the end of the file `~/.bashrc`.
+
 ## Class 5
 
 * Discussion of communication in open-source software projects based on Fogel chapter 6 (homework assignment MP2).
@@ -136,4 +146,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Tue Feb 28 13:34:18 UTC 2023 by jmac.
+Last modified: Wed Mar 01 12:59:02 UTC 2023 by jmac.
