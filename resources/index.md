@@ -96,6 +96,7 @@
   - It can be enabled by executing the command 
 
 	        source/usr/share/bash-completion/completions/git
+
     in a terminal.
   - To automatically enable it in every shell (i.e. terminal), add
     that command to the end of the file `~/.bashrc`.
@@ -148,4 +149,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Mar 01 13:18:33 UTC 2023 by jmac.
+Last modified: Wed Mar 01 19:31:15 UTC 2023 by jmac.
