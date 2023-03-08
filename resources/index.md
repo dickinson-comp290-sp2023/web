@@ -88,6 +88,11 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 7
+
+* Overview of end-to-end tests with Cypress ([slides](class07/07-S-Cypress.pptx))
+
+
 ## Class 6
 
 * Overview of FarmOS API ([slides](class06/06-S-FarmOS-API.pptx))
@@ -149,4 +154,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Mar 01 19:31:15 UTC 2023 by jmac.
+Last modified: Wed Mar 08 17:39:52 UTC 2023 by jmac.
