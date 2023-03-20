@@ -88,6 +88,12 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 8
+
+* Please complete the [mid-semester
+  survey](https://forms.office.com/r/QybRnXiB6e).
+
+
 ## Class 7
 
 * Overview of end-to-end tests with Cypress ([slides](class07/07-S-Cypress.pptx))
@@ -154,4 +160,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Mar 08 17:39:52 UTC 2023 by jmac.
+Last modified: Mon Mar 20 21:22:22 UTC 2023 by jmac.
