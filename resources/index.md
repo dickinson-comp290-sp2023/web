@@ -92,6 +92,10 @@
 
 * Please complete the [mid-semester
   survey](https://forms.office.com/r/QybRnXiB6e).
+* Overview of FarmData2 custom components ([slides](class08/08-S-FD2Components.pptx))
+* Useful general skill: using `find` and `grep` to explore a code base.
+  - I often use `find . -name "*something*"`
+  - ... and `grep -r "something" *` ... and `-i` is useful to ignore case, `-l` to show filenames only
 
 
 ## Class 7
@@ -160,4 +164,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Mon Mar 20 21:22:22 UTC 2023 by jmac.
+Last modified: Wed Mar 22 13:21:29 UTC 2023 by jmac.
