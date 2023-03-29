@@ -89,12 +89,7 @@ Post discussion questions to [MP4 Moodle forum](https://lms.dickinson.edu/mod/fo
 
 ### MP5
 
-Reading to be advised later. This will be a media report on a current
-issue in the high-tech sector.
-
-<!-- Required reading: New York Times article about the EU's Digital -->
-<!-- Markets Act. Available directly from the [New York Times website](https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html) or on -->
-<!-- [Moodle as a Word document](https://lms.dickinson.edu/mod/resource/view.php?id=1097377). Full citation:  -->
-<!-- * E.U. Takes Aim at Big Tech's Power With Landmark Digital Act. Adam Satariano. New York Times, March 24, 2022. -->
+Required reading: [How to Ask Good Technical
+Questions--the Ultimate Guide](https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/)  by software developer Nabil Tharwat, June 2011.
 
 Post discussion questions to [MP5 Moodle forum](https://lms.dickinson.edu/mod/forum/view.php?id=1167430).
