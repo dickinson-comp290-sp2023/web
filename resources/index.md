@@ -88,6 +88,19 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 9
+
+Epic teams:
+
+| team number | team members | issue |
+|-------------|--------------|-------|
+| 1 | Ha, Tai, James | [#160](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160) | 
+| 2 | John, Wonje, Shahir | [#159](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/159) | 
+| 3 | Duc, Quan, Tap | [#158](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158) | 
+
+* [Slides giving overview of Epic project](class09/09-S-ProjectWork.pptx)
+
+
 ## Class 8
 
 * Please complete the [mid-semester
@@ -164,4 +177,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Mar 22 13:21:29 UTC 2023 by jmac.
+Last modified: Wed Mar 29 03:13:02 UTC 2023 by jmac.
