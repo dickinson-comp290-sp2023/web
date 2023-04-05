@@ -103,7 +103,7 @@ Epic teams:
 |-------------|--------------|-------|-------------|
 | 1 | Ha, Tai, James | [#160](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160) | origin 
 | 2 | John, Wonje, Shahir | [#159](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/159) | [origin](https://github.com/COMP290-John-Wonje-Shahir/FD2School-FarmData2) 
-| 3 | Duc, Quan, Tap | [#158](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158) | origin 
+| 3 | Duc, Quan, Tap | [#158](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158) | [origin](https://github.com/QuanDucTap/FD2School-FarmData2) 
 
 * [Slides giving overview of Epic project](class09/09-S-ProjectWork.pptx)
 
@@ -184,4 +184,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Apr 05 17:23:56 UTC 2023 by jmac.
+Last modified: Wed Apr 05 17:25:50 UTC 2023 by jmac.
