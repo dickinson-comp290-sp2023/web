@@ -88,6 +88,13 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 10
+
+1. Brief explanation of standup meetings ([Wikipedia](https://en.wikipedia.org/wiki/Stand-up_meeting), [journal article](https://doi.org/10.1016/j.jss.2016.01.004))
+1. Team standup meetings with instructor
+1. Teams continue working on Epic project
+
+
 ## Class 9
 
 Epic teams:
@@ -177,4 +184,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Mar 29 03:13:02 UTC 2023 by jmac.
+Last modified: Wed Apr 05 01:11:26 UTC 2023 by jmac.
