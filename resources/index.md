@@ -88,6 +88,12 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 11
+
+1. Discussion of how to ask good technical questions
+1. Teams have standup meetings with instructor and continue working on
+   Epic project
+
 ## Class 10
 
 1. Brief explanation of standup meetings ([Wikipedia](https://en.wikipedia.org/wiki/Stand-up_meeting), [journal article](https://doi.org/10.1016/j.jss.2016.01.004))
@@ -184,4 +190,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Apr 05 17:25:50 UTC 2023 by jmac.
+Last modified: Wed Apr 12 12:08:10 UTC 2023 by jmac.
