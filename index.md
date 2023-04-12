@@ -21,7 +21,8 @@
 <!--   Repository](https://github.com/DickinsonCollege/FarmData2) -->
 * [QRA](qra.md)
 * [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com)
+* [Epic project team details](epic-team-details.md)
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Wed Mar 29 03:14:59 UTC 2023 by jmac.
+Last modified: Wed Apr 12 12:59:32 UTC 2023 by jmac.
