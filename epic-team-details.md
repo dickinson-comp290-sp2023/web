@@ -4,7 +4,7 @@ Team origin repo: unknown
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
-      * PR: unknown
+      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211)
   
 ## Team 2: John, Wonje, Shahir
 
