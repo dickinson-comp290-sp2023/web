@@ -1,6 +1,6 @@
 ## Team 1: Ha, Tai, James
 
-Team origin repo: unknown
+Team origin repo: [comp290epicTeam1/FD2School-FarmData2-epic](https://github.com/comp290epicTeam1/FD2School-FarmData2-epic)
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
