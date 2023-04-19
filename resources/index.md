@@ -88,6 +88,11 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 12
+
+Standup meetings and Epic project work
+
+
 ## Class 11
 
 1. Discussion of how to ask good technical questions
@@ -190,4 +195,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Apr 12 12:08:10 UTC 2023 by jmac.
+Last modified: Wed Apr 19 15:27:00 UTC 2023 by jmac.
