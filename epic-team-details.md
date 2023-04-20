@@ -4,7 +4,7 @@ Team origin repo: [comp290epicTeam1/FD2School-FarmData2-epic](https://github.com
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
-      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- jmac needs to review as of 4/20/2023
+      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- reviewer has requested changes as of 4/20
   
 ## Team 2: John, Wonje, Shahir
 
@@ -24,7 +24,7 @@ Issues worked on, with corresponding pull requests:
 1. [Issue #158, Test Seeding Input Tray Seeding Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158)
       * PR: [Testing Seeding Input Tray Seeding Defaults #194](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/194) -- reviewer has requested changes as of 4/20
 2. [Issue #188, Seeding Report: Test Area Filter](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/188)
-      * PR: [Test area filter in Seeding Report #223](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/223) -- jmac needs to review as of 4/20/2023
+      * PR: [Test area filter in Seeding Report #223](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/223) -- reviewer has requested changes as of 4/20
 
   
 
