@@ -4,7 +4,7 @@ Team origin repo: [comp290epicTeam1/FD2School-FarmData2-epic](https://github.com
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
-      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- 1 test implemented as of 4/18
+      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- jmac needs to review as of 4/20/2023
   
 ## Team 2: John, Wonje, Shahir
 
@@ -12,9 +12,9 @@ Team origin repo: [COMP290-John-Wonje-Shahir/FD2School-FarmData2](https://github
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #159, Test Seeding Input Direct Seeding Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/159)
-      * PR: [Test Seeding Input Direct Seeding Defaults #182](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/182) -- reviewer has requested changes as of 4/18
+      * PR: [Test Seeding Input Direct Seeding Defaults #182](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/182) -- reviewer has requested changes as of 4/20
 1. [Issue #200, FieldKit Tab: Test for FieldKit Sub-Tabs](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/200)
-      * PR: [FieldKit Tab: Test for FieldKit Sub-Tabs #212](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/212) -- 11 commits, finished subtask 1, not yet ready for review as of 4/18
+      * PR: [FieldKit Tab: Test for FieldKit Sub-Tabs #212](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/212) -- 11 commits, finished subtask 1, not yet ready for review as of 4/20
 	  
 ## Team 3: Duc, Quan, Tap
 
@@ -22,9 +22,9 @@ Team origin repo: [QuanDucTap/FD2School-FarmData2](https://github.com/QuanDucTap
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #158, Test Seeding Input Tray Seeding Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158)
-      * PR: [Testing Seeding Input Tray Seeding Defaults #194](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/194) -- reviewer has requested changes as of 4/18
+      * PR: [Testing Seeding Input Tray Seeding Defaults #194](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/194) -- reviewer has requested changes as of 4/20
 2. [Issue #188, Seeding Report: Test Area Filter](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/188)
-      * PR: unknown -- no PR as of 4/18
+      * PR: [Test area filter in Seeding Report #223](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/223) -- jmac needs to review as of 4/20/2023
 
   
 
