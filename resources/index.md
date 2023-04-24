@@ -88,6 +88,10 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 13
+
+Standup meetings and Epic project work
+
 ## Class 12
 
 Standup meetings and Epic project work
@@ -195,4 +199,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Apr 19 15:27:00 UTC 2023 by jmac.
+Last modified: Mon Apr 24 14:06:47 UTC 2023 by jmac.
