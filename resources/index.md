@@ -90,7 +90,9 @@
 
 ## Class 13
 
-Standup meetings and Epic project work
+1. Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
+
+1. Standup meetings and Epic project work
 
 ## Class 12
 
@@ -199,4 +201,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Mon Apr 24 14:06:47 UTC 2023 by jmac.
+Last modified: Wed Apr 26 15:39:52 UTC 2023 by jmac.
