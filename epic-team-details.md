@@ -5,7 +5,9 @@ Team origin repo: [comp290epicTeam1/FD2School-FarmData2-epic](https://github.com
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
       * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- reviewer has requested changes as of 4/24
-  
+1. [Issue #199 FD2 Tabs: Test that Main FD2 Tabs Exist](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/199)
+       * PR: [Main fd2 tabs test #228](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/228)
+
 ## Team 2: John, Wonje, Shahir
 
 Team origin repo: [COMP290-John-Wonje-Shahir/FD2School-FarmData2](https://github.com/COMP290-John-Wonje-Shahir/FD2School-FarmData2)
@@ -15,7 +17,11 @@ Issues worked on, with corresponding pull requests:
       * PR: [Test Seeding Input Direct Seeding Defaults #182](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/182) -- merged on 4/24
 1. [Issue #200, FieldKit Tab: Test for FieldKit Sub-Tabs](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/200)
       * PR: [FieldKit Tab: Test for FieldKit Sub-Tabs #212](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/212) -- 11 commits, finished subtask 1, not yet ready for review as of 4/20
-	  
+1. [Issue #203, Seeding Input: Test Seeding Log Creation](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/203)
+      * PR: [Seeding Input: Test Seeding Log Creation #224](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/224)
+1. [Issue #202, Seeding Report: Test Cancel Seeding Log Edit](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/202)
+	  * PR: unknown
+
 ## Team 3: Duc, Quan, Tap
 
 Team origin repo: [QuanDucTap/FD2School-FarmData2](https://github.com/QuanDucTap/FD2School-FarmData2)
