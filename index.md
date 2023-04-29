@@ -5,9 +5,9 @@
 
 
 * [Syllabus](syllabus-1-24-2023.docx)
-* [Overview Schedule](schedule-3-27-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/27/2023</font> 
+* [Overview Schedule](schedule-3-27-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 3/27/2023</font>  -->
 * [Detailed schedule](resources)
-* [Homework assignments](hw)
+* [Homework assignments](hw) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 4/29/2023</font> 
 <!-- * [Instructor's office -->
 <!--   hours](https://users.dickinson.edu/~jmac/office-hours.html) -->
 <!-- * [CS help room](help-room.md) -->
@@ -25,4 +25,4 @@
 <!-- * [Acknowledgment](acknowledgment.md) -->
 
 ----
-Last modified: Wed Apr 12 12:59:32 UTC 2023 by jmac.
+Last modified: Sat Apr 29 13:20:58 UTC 2023 by jmac.
