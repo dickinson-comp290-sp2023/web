@@ -88,6 +88,17 @@
 <!-- * Note that the final FDS assignment is due at midnight Monday and -->
 <!--   there is a reading assignment due 8 AM Wednesday. -->
 
+## Class 14
+
+* Today we will use class time to focus on completion of essential work.
+  - Anyone who has not completed the WiD component (EPR2 Part B)
+    should do so in class today.
+  - We aim for every team to get their first issue merged, at a
+    minimum. So far Team 2 has their first issue merged but the other
+    teams do not. Please use class time to resolve all remaining
+    problems with your first issue.
+
+
 ## Class 13
 
 1. Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
@@ -201,4 +212,4 @@ slides: [01-intro-Install.pptx](class01/01-intro-Install.pptx)
 
 
 ----
-Last modified: Wed Apr 26 15:39:52 UTC 2023 by jmac.
+Last modified: Wed May 03 12:17:49 UTC 2023 by jmac.
