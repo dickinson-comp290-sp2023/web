@@ -4,7 +4,7 @@ Team origin repo: [comp290epicTeam1/FD2School-FarmData2-epic](https://github.com
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
-      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- one test is still failing as of 5/3?
+      * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- merged on 5/3/2023!!
 1. [Issue #199 FD2 Tabs: Test that Main FD2 Tabs Exist](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/199)
       * PR: [Main fd2 tabs test #228](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/228)
 
@@ -28,7 +28,7 @@ Team origin repo: [QuanDucTap/FD2School-FarmData2](https://github.com/QuanDucTap
 
 Issues worked on, with corresponding pull requests:
 1. [Issue #158, Test Seeding Input Tray Seeding Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/158)
-      * PR: [Testing Seeding Input Tray Seeding Defaults #194](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/194) -- still a draft PR as of 5/3 -- is it ready for review?
+      * PR: [Testing Seeding Input Tray Seeding Defaults #194](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/194) -- merged on 5/3/2023!!
 2. [Issue #188, Seeding Report: Test Area Filter](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/188)
       * PR: [Test area filter in Seeding Report #223](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/223) -- reviewer has requested changes as of 4/20
 3. [Issue #206 Seeding Report: Test Direct Seeding Summary Values](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/206)
@@ -36,7 +36,7 @@ Issues worked on, with corresponding pull requests:
 
 
 ----
-Last modified: Wed May 03 12:12:59 UTC 2023 by jmac.
+Last modified: Thu May 04 12:14:35 UTC 2023 by jmac.
 
   
 
