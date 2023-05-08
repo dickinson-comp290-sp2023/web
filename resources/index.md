@@ -158,7 +158,7 @@ Epic teams:
   enabled in our FarmData2 development environments by default.
   - It can be enabled by executing the command 
 
-	        source/usr/share/bash-completion/completions/git
+	        source /usr/share/bash-completion/completions/git
 
     in a terminal.
   - To automatically enable it in every shell (i.e. terminal), add
