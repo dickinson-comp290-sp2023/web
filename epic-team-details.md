@@ -16,11 +16,11 @@ Issues worked on, with corresponding pull requests:
 1. [Issue #159, Test Seeding Input Direct Seeding Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/159)
       * PR: [Test Seeding Input Direct Seeding Defaults #182](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/182) -- merged on 4/24
 1. [Issue #200, FieldKit Tab: Test for FieldKit Sub-Tabs](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/200)
-      * PR: [FieldKit Tab: Test for FieldKit Sub-Tabs #212](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/212) -- two new review changes were requested on 5/4/2023 -- now ready for review, 5/5
+      * PR: [FieldKit Tab: Test for FieldKit Sub-Tabs #212](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/212) -- merged on 5/8
 1. [Issue #203, Seeding Input: Test Seeding Log Creation](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/203)
-      * PR: [Seeding Input: Test Seeding Log Creation #224](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/224) -- nearly ready to merge, just waiting on general comment at top of file (5/4/2023) -- now ready for review, 5/5
+      * PR: [Seeding Input: Test Seeding Log Creation #224](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/224) -- observed failed tests 5/8 (timeout errors -- caused by different machine?)
 1. [Issue #202, Seeding Report: Test Cancel Seeding Log Edit](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/202)
-	  * PR: [Seeding Report: Test Cancel Seeding Log Edit #236](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/236) (was previously #232) -- ready for review as of 5/5/2023
+	  * PR: [Seeding Report: Test Cancel Seeding Log Edit #236](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/236) (was previously #232) -- observed failed tests 5/8 (timeout errors -- caused by different machine?)
 
 ## Team 3: Duc, Quan, Tap
 
