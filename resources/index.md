@@ -156,11 +156,15 @@ Epic teams:
 * Overview of FarmOS API ([slides](class06/06-S-FarmOS-API.pptx))
 * git is much easier to use if you enable tab completion. This is not
   enabled in our FarmData2 development environments by default.
-  - It can be enabled by executing the command 
+  - Search online for instructions. On linux, the following may work:
 
 	        source /usr/share/bash-completion/completions/git
 
     in a terminal.
+    On a Mac, the following worked for me:
+    
+                curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+                source ~/.git-completion.bash
   - To automatically enable it in every shell (i.e. terminal), add
     that command to the end of the file `~/.bashrc`.
 
