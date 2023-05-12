@@ -6,7 +6,7 @@ Issues worked on, with corresponding pull requests:
 1. [Issue #160, Test Seeding Input Miscellaneous Defaults](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/160)
       * PR: [Create test file for the Seeding Input #211](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/211) -- merged on 5/3/2023!!
 1. [Issue #199 FD2 Tabs: Test that Main FD2 Tabs Exist](https://github.com/DickinsonCollege/FD2School-FarmData2/issues/199)
-      * PR: [Main fd2 tabs test #228](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/228)
+      * PR: [Main fd2 tabs test #228](https://github.com/DickinsonCollege/FD2School-FarmData2/pull/228) -- merged on 5/12/2023
 
 ## Team 2: John, Wonje, Shahir
 
